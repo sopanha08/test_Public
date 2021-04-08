@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  sathapana-mobile-app
+
+  Created by Sovanndy Ul on 24/3/21.
+  
+*/
+
+"welcome_to_sathapana" = "Click on me!";
+
+// Activate Mobile
+"accept_term_conditions" = "Accept term and conditions";
+"placeholder_phone_number" = "Phone number";
+"placeholder_account_number" = "Account number";
+"placeholder_date_of_birth" = " Birth date";
+"activate_mobile_app_title" = "Activate Mobile App";
+"activate_mobile_app_description" = "Please provide basic information which you have create account with Sathapana Bank.";
+
+// Personal Infomations
+"personal_information_title" = "Personal Information";
+"personal_information_description" = "Fill you basic information of you. We don’t share your information to third-party without permission.";
+"placeholder_your_name" = "Your name";
+"placeholder_choose_gender" = "Choose your gender";
+"placeholder_nib_number" = "NID Number";
+"placeholder_nib_expired_at" = "NID Expired At";
+"placeholder_email" = "Email (Optional)";
+
+// Choose City
+"choose_your_language" = "Choose your language";
+ 
+// Login screen
+"login_screen_button_login" = "LOGIN";
+"login_screen_button_activiation" = "ACTIVATION";
+"login_screen_button_create_new_account" = "CREATE NEW ACCOUNT";
+
+// Login with phone number
+"login_with_phone_title" = "Welcome Back 👋";
+"login_with_phone_description" = "We are so happy to see. You can contribute to login for manage your finance.";
+"placeholder_choose_password" = "Password";
