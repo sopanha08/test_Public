@@ -17,7 +17,7 @@ class DataSource {
         TranferMobileList(ListImage: "Tranfer_Local", ListTitle: "To international banks"),
         TranferMobileList(ListImage: "Tranfer_Wing", ListTitle: "To Wing"),
         TranferMobileList(ListImage: "Tranfer_PiPay", ListTitle: "To Pipay"),
-        TranferMobileList(ListImage: "Tranfer_Bakong", ListTitle: "To TrueMoney"),
+        TranferMobileList(ListImage: "Tranfer_TrueMoney", ListTitle: "To TrueMoney"),
         TranferMobileList(ListImage: "Tranfer_Bakong", ListTitle: "To Bakong Wallet"),
     ]
     

@@ -34,11 +34,11 @@
                                 <color key="textColor" red="0.29411764705882354" green="0.29411764705882354" blue="0.29411764705882354" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow_back" translatesAutoresizingMaskIntoConstraints="NO" id="AeZ-Id-TMv">
-                                <rect key="frame" x="285" y="27" width="15" height="20"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow_chevron" translatesAutoresizingMaskIntoConstraints="NO" id="AeZ-Id-TMv">
+                                <rect key="frame" x="293" y="30.5" width="7" height="13"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="20" id="OoF-M8-8br"/>
-                                    <constraint firstAttribute="width" constant="15" id="SEK-cr-OFy"/>
+                                    <constraint firstAttribute="height" constant="13" id="OoF-M8-8br"/>
+                                    <constraint firstAttribute="width" constant="7" id="SEK-cr-OFy"/>
                                 </constraints>
                             </imageView>
                         </subviews>
@@ -70,7 +70,7 @@
         </tableViewCell>
     </objects>
     <resources>
-        <image name="arrow_back" width="59" height="49"/>
+        <image name="arrow_chevron" width="7" height="14"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
